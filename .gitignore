@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model files
+*.pth
+*.pt
+*.h5
+*.pkl
+
+# Output files
+submission.csv
+*_part2.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (don't commit to GitHub)
+train-part1-clean.csv
+train-part1-noise.csv
+train-part2.csv
