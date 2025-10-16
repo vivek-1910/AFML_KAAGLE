@@ -22,14 +22,14 @@ All files have been optimized for **Google Colab** with your team ID: **44_XLR8*
 - ✅ `test-part2.txt` (1 KB)
 
 **Notebook files (from your local folder):**
-- ✅ `44_XLR8_part1.ipynb`
+- ✅ `44_XLR8_part1_FIXED.ipynb` ⭐ USE THIS ONE!
 - ✅ `44_XLR8_part2.ipynb`
 
 ### Step 2: Run Part 1 (20-30 minutes)
 
 1. Go to [Google Colab](https://colab.research.google.com)
 2. File → Open notebook → Google Drive
-3. Select `AFML_KAAGLE/44_XLR8_part1.ipynb`
+3. Select `AFML_KAAGLE/44_XLR8_part1_FIXED.ipynb` ⭐
 4. **Enable GPU**: Runtime → Change runtime type → GPU → Save
 5. Run all cells: Runtime → Run all (or Ctrl+F9)
 6. Wait for completion (~20-30 min)
